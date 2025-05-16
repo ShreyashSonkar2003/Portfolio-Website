@@ -4,7 +4,7 @@ Welcome to my **personal portfolio website** – a place where creativity meets 
 Built with ❤️ using **HTML**, **CSS**, and **JavaScript**, this site showcases my frontend skills, projects, and passion for design.
 
 ## 🔗 Live Demo  
-👉 [Check it Out on the Web]([https://your-live-demo-link.com](https://shreyashsonkar-portfolio.netlify.app/)) 🌍
+👉 [Check it Out on the Web](https://shreyashsonkar-portfolio.netlify.app/) 🌍
 
 ## 🧰 Tech Stack  
 - 🧱 HTML5 – Structure & content  
